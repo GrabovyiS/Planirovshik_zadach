@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kotlin MVVM ToDoList</string>
+    <string name="hello_blank_fragment">Пустой фрагмент</string>
+    <string name="search">Поиск</string>
+    <string name="sort_by_high_priority">Сортировать по приоритетности</string>
+    <string name="delete_all">Удалить всё</string>
+    <string name="enter_task">Введите задачу</string>
+    <string name="add">Добавить</string>
+    <string name="update">Обновить</string>
+    <string-array name="priorities">
+        <item>Высокий приоритет</item>
+        <item>Средний приоритет</item>
+        <item>Низкий приоритет</item>
+    </string-array>
+</resources>
